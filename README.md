@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Arianna 👋
 
-<!--
-**arirodriguez001/arirodriguez001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Physics undergraduate exploring technology, Python and computational thinking through academic work and hands-on projects.
 
-Here are some ideas to get you started:
+I enjoy understanding how systems work, from physical models to code, and turning that understanding into something useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Languages & Tools
+- Python
+- Jupyter Notebook
+- Git & GitHub
+- HTML / CSS
+- Scientific computing
+
+---
+
+### 📌 Selected Work
+You can find my work on experimental physics labs, programming projects and academic assignments below 👇
+
+---
+
+### 📊 GitHub at a glance
+![Arianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=arirodriguez001&show_icons=true&theme=default)
