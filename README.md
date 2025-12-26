@@ -15,10 +15,21 @@ I enjoy understanding how systems work, from physical models to code, and turnin
 
 ---
 
-### 📌 Selected Work
-You can find my work on experimental physics labs, programming projects and academic assignments below 👇
+### 🚀 What I'm working on
+- Physics laboratory projects involving data acquisition and analysis  
+- Python exercises focused on logic and problem solving  
+- Bridging academic physics concepts with computational tools
 
 ---
 
-### 📊 GitHub at a glance
-![Arianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=arirodriguez001&show_icons=true&theme=default)
+### 🧠 Focus Areas
+![Physics](https://img.shields.io/badge/Physics-Academic-blue)
+![Python](https://img.shields.io/badge/Python-Scientific-yellow)
+![Data](https://img.shields.io/badge/Data-Analysis-green)
+
+---
+
+### 📌 About my work
+My repositories reflect a mix of academic physics labs and programming projects, with an emphasis on understanding systems, data and computational modeling.
+
+
